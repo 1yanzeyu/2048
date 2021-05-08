@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1567868968 source:c:\users\apple\desktop\c++\课设\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+	<string>
+	<fstream>
+	"head.h"
+	"c++.cpp"
+
+1568112786 c:\users\apple\desktop\c++\课设\head.h
+	<string>
+
+1568112786 c:\users\apple\desktop\c++\课设\c++.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+	<string>
+	<fstream>
+	"head.h"
+
+1567868970 source:c:\users\yan\desktop\课设2048\课设\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+	<string>
+	<fstream>
+	"head.h"
+	"c++.cpp"
+
+1568112788 c:\users\yan\desktop\课设2048\课设\head.h
+	<string>
+
+1620462744 c:\users\yan\desktop\课设2048\课设\c++.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<cmath>
+	<string>
+	<fstream>
+	"head.h"
+
